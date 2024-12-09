@@ -1,1 +1,1 @@
-# crypticchallenge
+# cc2006
